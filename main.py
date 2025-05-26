@@ -6,3 +6,5 @@ if __name__=="__main__":
     nums = [2,7,11,15]
     cible = 9
     print(leet_obj.twoSum(nums,cible))
+    print(leet_obj.isPalindrome(1001))
+    print(leet_obj.isPalindrome(-121))
